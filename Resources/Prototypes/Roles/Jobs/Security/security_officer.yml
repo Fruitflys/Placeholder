@@ -34,7 +34,7 @@
 - type: chameleonOutfit
   id: SecurityOfficerChameleonOutfit
   job: SecurityOfficer
-  hasMindShield: true
+  hasMindShield: false
   equipment:
     head: ClothingHeadHatBeretSecurity
     mask: ClothingMaskGasSecurity

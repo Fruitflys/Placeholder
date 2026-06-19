@@ -40,7 +40,7 @@
 - type: chameleonOutfit
   id: ResearchDirectorChameleonOutfit
   job: ResearchDirector
-  hasMindShield: true
+  hasMindShield: false
   equipment:
     head: ClothingHeadHatBeretRND
     eyes: ClothingEyesGlasses
