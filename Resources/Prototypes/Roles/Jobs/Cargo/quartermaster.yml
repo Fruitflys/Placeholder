@@ -47,7 +47,7 @@
 - type: chameleonOutfit
   id: QuartermasterChameleonOutfit
   job: Quartermaster
-  hasMindShield: true
+  hasMindShield: false
   equipment:
     head: ClothingHeadHatQMsoft
     eyes: ClothingEyesGlassesSunglasses

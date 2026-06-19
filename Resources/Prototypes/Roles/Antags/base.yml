@@ -22,12 +22,9 @@
   id: CommandBlacklistedAntag
   jobBlacklist:
   - Captain
-  - HeadOfPersonnel
   - HeadOfSecurity
   - ChiefMedicalOfficer
-  - ResearchDirector
   - ChiefEngineer
-  - Quartermaster
 
 # Borgs
 - type: antagSpecifier
